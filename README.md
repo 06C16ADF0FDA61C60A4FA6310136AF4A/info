@@ -1,4 +1,5 @@
 # info
-games
-math
-writing
+*games
+*math
+*writing
+*art
