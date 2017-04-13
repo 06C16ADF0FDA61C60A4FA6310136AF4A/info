@@ -1,1 +1,4 @@
 # info
+games
+math
+writing
